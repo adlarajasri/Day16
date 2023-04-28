@@ -1,0 +1,3 @@
+D:\UST\Day16\Subarray\Subarray\obj\Debug\Subarray.csproj.AssemblyReference.cache
+D:\UST\Day16\Subarray\Subarray\obj\Debug\Subarray.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day16\Subarray\Subarray\obj\Debug\Subarray.csproj.CoreCompileInputs.cache
